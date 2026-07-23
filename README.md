@@ -268,9 +268,12 @@ df_rec = pd.read_csv(rec_url)
 
 ## Project Outline
 
-- [EDA Notebook](https://github.com/username/capstone-project/blob/main/notebooks/01_EDA.ipynb)
-- [Modeling Notebook](https://github.com/username/capstone-project/blob/main/notebooks/02_Modeling.ipynb)
-- [Final Report](https://github.com/username/capstone-project/blob/main/README.md)
+- [EDA and Modeling Notebook](https://github.com/kimkok-UCBerkeleyHaas/Capstone_Initial_Report-EDA_Assignment-20-1_Module-20/blob/main/01_EDA_Recruitment_Acceptance_Prediction.ipynb)
+- 
+- [Final Report](https://github.com/kimkok-UCBerkeleyHaas/Capstone_Initial_Report-EDA_Assignment-20-1_Module-20/blob/main/README.md)
+-
+- Colab Link : https://colab.research.google.com/github/kimkok-UCBerkeleyHaas/Capstone_Initial_Report-EDA_Assignment-20-1_Module-20/blob/main/01_EDA_Recruitment_Acceptance_Prediction.ipynb
+ 
 
 ---
 
